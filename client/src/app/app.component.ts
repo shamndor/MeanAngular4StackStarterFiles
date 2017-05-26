@@ -7,7 +7,7 @@ import 'rxjs/RX';
     selector: 'pm-app',
     template: `
      <div>
-         <h5> Welcom in MEAN Stack 4 World , have a fan mate </h5>
+         <h5> Welcom in MEAN Stack 4  </h5>
      </div>
     `,
    
